@@ -6,3 +6,10 @@ Material zum WMC Unterricht
 
 Einführung in Git, Repo auf github
 Folie Git gemacht
+
+HÜ:
+
+-  `git` möge im Terminal (cmd, ps1) funktionieren
+- installation visual studio code
+
+
