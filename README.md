@@ -1,5 +1,14 @@
 # sj25-26-34bkif-wmc
 
+am 25.9.: html5-tags 2. Seite
+
+## 2025-09-18
+
+bis nächstes MAL BITTE
+
+- git repo url an grafg@ senden
+- eine website anlegen (index.html) mit Fokus auf Struktur und besprochene Tags, zu einem Thema Ihrer Wahl.
+
 ## 2025-09-11
 
 - vscode extensions, Qualitätskriterien
