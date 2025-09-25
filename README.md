@@ -1,5 +1,9 @@
 # sj25-26-34bkif-wmc
 
+## Schriftlicher Test am 15. Jänner 2026
+
+Wissensabfrage, multiple choice
+
 am 25.9.: html5-tags 2. Seite
 
 ## 2025-09-18
